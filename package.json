@@ -1,6 +1,6 @@
 {
   "name": "com.ncroquis.backendservice",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": "Backend Services",
   "description": "백엔드 서비스를 위한 통합 패키지 입니다.",
   "unity": "2021.3",
